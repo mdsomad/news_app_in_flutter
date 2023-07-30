@@ -16,7 +16,7 @@
 <tr>
 
 <td>
-  <img src="https://github.com/mdsomad/Social_Media_App_Frontend_in_Flutter/assets/103892160/c1ddc6ce-2835-458c-8f15-101258f63bbf" width="260"/>
+  <img src="https://github.com/mdsomad/news_app_in_flutter/assets/103892160/cd74c4dd-59bc-41f3-94b1-4815b1aacce6" width="260"/>
 </td>
 
 
@@ -24,3 +24,4 @@
 
 
 </table>
+
