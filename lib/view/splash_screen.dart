@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
       ///* navigate to the `HomeScreen` when the timer duration is completed in the `initState` method.
       ///* It creates a new route to the `HomeScreen` and pushes it onto the navigation stack, replacing
       ///* the current route.
-      Navigator.push(context, MaterialPageRoute(builder: (context) => HomeScreen(),));
+      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => HomeScreen(),));
       
     });
   }
