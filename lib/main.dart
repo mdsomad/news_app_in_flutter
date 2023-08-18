@@ -16,10 +16,13 @@ class MyApp extends StatelessWidget {
     theme: ThemeData(
         primarySwatch: Colors.blue,
         appBarTheme: AppBarTheme(
-          color: Colors.white,
+          backgroundColor: Colors.white,
+          iconTheme: IconThemeData(
+            color: Colors.black
+          ),
           elevation: 0.0,
           centerTitle: true,
-          titleTextStyle: TextStyle(color: Colors.black)
+          titleTextStyle: TextStyle(color: Colors.black),
         )
       ),  
       home: SplashScreen()
